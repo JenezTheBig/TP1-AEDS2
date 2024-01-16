@@ -1,0 +1,17 @@
+Rafael Carvalho Avidago Geraldo
+Davi Medeiros Gonçalves
+
+Arquivos: email.h user.h email.c user.c main.c makefile 
+
+Compilação:
+
+> make
+o comando "make" compila o código.
+
+
+> make clean
+O comando “make clean” apaga os arquivos criados pelos comandos acima e deixa apenas os códigos do programa.
+Execução: para executar o codigo utilize apos o comando "make build" a seguinte linha de comando
+
+> ./app
+o comando ./app executa o código.
